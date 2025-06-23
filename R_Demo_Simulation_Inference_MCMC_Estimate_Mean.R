@@ -1,6 +1,8 @@
 ## R_Demo_Simulation_Inference_MCMC_Estimate_Mean.R
 ##########################################################################
-## INSTRUCTOR: Christopher Fariss
+##.  TEST TO SEE IF THIS COMMITTED... why didn't this work? 
+
+##INSTRUCTOR: Christopher Fariss
 ## COURSE NAME: Programming and Simulation Methods for Computational Social Science (2W)
 ## University of Essex Summer School 2024
 ##
